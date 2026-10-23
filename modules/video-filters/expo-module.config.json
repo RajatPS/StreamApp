@@ -1,0 +1,10 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["VideoFiltersModule"],
+    "podspecPath": "ios/VideoFilters.podspec"
+  },
+  "android": {
+    "modules": ["expo.modules.videofilters.VideoFiltersModule"]
+  }
+}

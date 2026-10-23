@@ -1,0 +1,7 @@
+{
+  "name": "expo-video-filters",
+  "version": "1.0.0",
+  "description": "Native local video filter export for the Expo camera screen",
+  "license": "MIT",
+  "main": "index.ts"
+}
